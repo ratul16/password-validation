@@ -1,9 +1,10 @@
 ## Getting Started
+Client Side password validation using Regex
 
 
 ### Installing
 
-* Clone repo using (git clone https://github.com/ratul16/simpleportfolio.git)
+* Clone repo using (git clone https://github.com/ratul16/password-validation.git)
 * Install dependencies `npm install`
 * Open with your favorite code editor and start working
 * To run dev server `npm run dev`
